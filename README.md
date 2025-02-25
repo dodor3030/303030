@@ -5,6 +5,6 @@
 - [Ex01-02](https://colab.research.google.com/drive/1c4l5DTfAKPCvTL1l7EMBVOaJTdx-BZW3?hl=zh-tw)
 - [Ex01-03](https://colab.research.google.com/drive/1IWkaiyZwpdFrmcujFldE4NOnFcrkk2qK?hl=zh-tw)
 - [Ex01-04](https://colab.research.google.com/drive/1icTkRGyu-rk4SAZ2-PW4PhMnkHKvnUES?hl=zh-tw)
-- [Ex01-05]
+- [Ex01-05](https://colab.research.google.com/drive/157L1cxmgtB4Bhw57ON4rFk_d-89L6g0W?hl=zh-tw)
 - [Ex01-06]
 - [Ex01-07]
