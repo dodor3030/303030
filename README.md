@@ -6,5 +6,5 @@
 - [Ex01-03](https://colab.research.google.com/drive/1IWkaiyZwpdFrmcujFldE4NOnFcrkk2qK?hl=zh-tw)
 - [Ex01-04](https://colab.research.google.com/drive/1icTkRGyu-rk4SAZ2-PW4PhMnkHKvnUES?hl=zh-tw)
 - [Ex01-05](https://colab.research.google.com/drive/157L1cxmgtB4Bhw57ON4rFk_d-89L6g0W?hl=zh-tw)
-- [Ex01-06]
+- [Ex01-06](https://colab.research.google.com/drive/1aeUbyqwVKUbRG_7VTVIgfUHCrJfpVvj5?hl=zh-tw#updateTitle=true&folderId=1muukYSYVVcShntB5vtfdxjPQl2zGZRoT&scrollTo=DFf_mRZFNfeL)
 - [Ex01-07]
