@@ -10,3 +10,4 @@
 - [Ex01-07](https://colab.research.google.com/drive/1sK6ag6wSpchPgX7wgBC3slbw6qEx2rbf?hl=zh-tw)
 ## 02 Web Crawler
 - [Ex02-01](https://colab.research.google.com/github/dodor3030/303030/blob/main/EX02_01_My_Chatbot.ipynb)
+- [Ex02-02](https://colab.research.google.com/drive/11WKpDox555mBTt1xEKfJbdIPQKY0-yJW?hl=zh-tw#scrollTo=coaMzMtgfKCq)
