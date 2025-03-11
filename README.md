@@ -9,4 +9,4 @@
 - [Ex01-06](https://colab.research.google.com/drive/1aeUbyqwVKUbRG_7VTVIgfUHCrJfpVvj5?hl=zh-tw#updateTitle=true&folderId=1muukYSYVVcShntB5vtfdxjPQl2zGZRoT&scrollTo=DFf_mRZFNfeL)
 - [Ex01-07](https://colab.research.google.com/drive/1sK6ag6wSpchPgX7wgBC3slbw6qEx2rbf?hl=zh-tw)
 ## 02 Web Crawler
-- [Ex02-01](https://colab.research.google.com/drive/11xKhzM29Zdz1K6LLxkaiUE1pjq9yVxDc?usp=classroom_web)
+- [Ex02-01](https://colab.research.google.com/drive/1szjTuRkBbprt7UAHQuUcRV8EYzbtZu8I)
