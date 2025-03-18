@@ -11,4 +11,4 @@
 ## 02 Web Crawler
 - [Ex02-01 My Chatbot](https://colab.research.google.com/github/dodor3030/303030/blob/main/EX02_01_My_Chatbot.ipynb)
 - [Ex02-02 高雄紅橘線捷運車站位置查詢](https://colab.research.google.com/drive/11WKpDox555mBTt1xEKfJbdIPQKY0-yJW?hl=zh-tw#scrollTo=coaMzMtgfKCq)
-- [Ex02-03 Yahoo 新聞儲存 Google 試算表](
+- [Ex02-03 Yahoo 新聞儲存 Google 試算表](https://colab.research.google.com/drive/1ncC103kKEOIIjMQoUtwzJy413qoinbpL?hl=zh-tw#scrollTo=QVJJHa9q96GZ)
