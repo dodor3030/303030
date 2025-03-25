@@ -17,5 +17,5 @@
 - [EX02-06 開眼電影](
 - [EX02-07 KKDay](
 
-## 03 Data analysis
+## 03 Data Analysis
 
