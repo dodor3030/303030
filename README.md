@@ -15,8 +15,7 @@
 - [EX02-04 Download Pokemon Images](https://colab.research.google.com/drive/1ncBoFNWh1SrvZbhAphF2tGcqnuWpNiVq?hl=zh-tw#scrollTo=iqo59eMKCX7L)
 - [EX02-05 PTT Gossiping](https://colab.research.google.com/drive/18s8Z8AQQGI2MvjnsSva6Ll1jVKW_aVaD?hl=zh-tw#scrollTo=35id7aU1C51o)
 - [EX02-06 開眼電影](https://colab.research.google.com/drive/1qnqr-yyU4w7wavvhTOMtJv25Uee7Bl6o?hl=zh-tw#scrollTo=4SLEULTNRK-q)
-- [EX02-07 KKDay](https://colab.research.google.com/drive/1FFdqOs3BtspTOR35xIBeD0YUgh7tVgjV?hl=zh-tw)
-- 
+- [EX02-07 KKDay](
 
 ## 03 Data Analysis
-
+- [EX03-01 公司薪資概況Ⅰ](https://colab.research.google.com/drive/1cz9DZTvNIuEBibEm8ZXIz5Sjri-wPorD?hl=zh-tw#scrollTo=zTLoLzrpK5Qu)
