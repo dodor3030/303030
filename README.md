@@ -20,7 +20,7 @@
 ## 03 Data Analysis
 - [EX03-01 公司薪資概況Ⅰ](https://colab.research.google.com/drive/1cz9DZTvNIuEBibEm8ZXIz5Sjri-wPorD?hl=zh-tw#scrollTo=zTLoLzrpK5Qu)
 - [EX03-02 公司薪資概況Ⅱ]
-- [EX03-03 空氣品質指標(AQI)]
+- [EX03-03 空氣品質指標(AQI)](https://colab.research.google.com/drive/1obcOudj83ipuAP4f3zop_HxKQlpE4b9n?hl=zh-tw#scrollTo=onQ252RBL5U7)
 - [EX03-04 薪情平台]
 - [EX03-05 台灣股票市場個股每日成交資訊]
 - [EX03-06 出生人口數]
