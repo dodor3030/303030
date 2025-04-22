@@ -22,6 +22,6 @@
 - [EX03-02 公司薪資概況Ⅱ](https://colab.research.google.com/github/dodor3030/303030/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
 - [EX03-03 空氣品質指標(AQI)](https://colab.research.google.com/drive/1obcOudj83ipuAP4f3zop_HxKQlpE4b9n?hl=zh-tw#scrollTo=onQ252RBL5U7)
 - [EX03-04 薪情平台](https://colab.research.google.com/drive/16Z-PvjYUnL6yKeaytoDBAlwM5nQbPIKn?hl=zh-tw#scrollTo=MJQMxAhMetK7)
-- [EX03-05 台灣股票市場個股每日成交資訊]
+- [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/13ko1VXxrxNVOJKvxmO6Q3H-kaBbyAKdW?hl=zh-tw#scrollTo=rbJDaHU3Tb2M)
 - [EX03-06 出生人口數]
 - [EX03-07 Tips]
