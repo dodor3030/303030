@@ -25,3 +25,10 @@
 - [EX03-05 台灣股票市場個股每日成交資訊](https://colab.research.google.com/drive/13ko1VXxrxNVOJKvxmO6Q3H-kaBbyAKdW?hl=zh-tw#scrollTo=rbJDaHU3Tb2M)
 - [EX03-06 出生人口數](https://colab.research.google.com/drive/1yPhcOxsoNBu7bIoLzKDZCVFGhSyEHSzj?hl=zh-tw#scrollTo=iK9ezrqWnQGk)
 - [EX03-07 Tips](https://colab.research.google.com/drive/1L3LyJoEQAdVhLBReMmHX4kwkXetRxOOl?hl=zh-tw#scrollTo=uA_FFZHptBPG)
+
+## 05 Web API
+- [EX05-01 Echo Bot](https://colab.research.google.com/drive/1XA9iE4lfUSQQJrKimw35jJKF5wivKqnB?hl=zh-tw#scrollTo=UygnOdE2qbVi)
+- [EX05-02 Ask Gemini]
+- [EX05-03 Reply Multi-type Messages]
+- [EX05-04 Reply Template Messages]
+- [EX05-05 Rich Menu]
