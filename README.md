@@ -26,6 +26,15 @@
 - [EX03-06 出生人口數](https://colab.research.google.com/drive/1yPhcOxsoNBu7bIoLzKDZCVFGhSyEHSzj?hl=zh-tw#scrollTo=iK9ezrqWnQGk)
 - [EX03-07 Tips](https://colab.research.google.com/drive/1L3LyJoEQAdVhLBReMmHX4kwkXetRxOOl?hl=zh-tw#scrollTo=uA_FFZHptBPG)
 
+## 04 Machine Learning
+- [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/1QJBaK3q1BhwcOwS2jcveEM_7TzboLsYN?hl=zh-tw#scrollTo=dgFxUZDX3iUm)
+- [EX04-02 客戶基本資料編碼]
+- [EX04-03 客戶分群]
+- [EX04-04 加州房價]
+- [EX04-05 辨識鳶尾花]
+- [EX04-06 ET Today 新聞標題分類]
+- [EX04-07 PTT 電影版情感分析]
+  
 ## 05 Web API
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1XA9iE4lfUSQQJrKimw35jJKF5wivKqnB?usp=classroom_web#scrollTo=UygnOdE2qbVi)
 - [EX05-02 Ask Gemini](https://colab.research.google.com/drive/1l2Ztkz7iGrIE0HQR_aQW2bMEL111j9Aj?hl=zh-tw#scrollTo=0-3BduHZgsoa)
