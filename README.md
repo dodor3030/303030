@@ -28,7 +28,7 @@
 
 ## 04 Machine Learning
 - [EX04-01 汽車車型數值資料轉換](https://colab.research.google.com/drive/1QJBaK3q1BhwcOwS2jcveEM_7TzboLsYN?hl=zh-tw#scrollTo=dgFxUZDX3iUm)
-- [EX04-02 客戶基本資料編碼]
+- [EX04-02 客戶基本資料編碼](https://colab.research.google.com/drive/1BjzXwGrzX7WpjlF9AswqQJvvCERUOmxS?hl=zh-tw#scrollTo=ZPIX5VvCzII-)
 - [EX04-03 客戶分群]
 - [EX04-04 加州房價]
 - [EX04-05 辨識鳶尾花]
