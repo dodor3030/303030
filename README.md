@@ -33,7 +33,6 @@
 - [EX04-04 加州房價](https://colab.research.google.com/drive/1qIXk_yMz1d4dfD10f9rt585lI0XIJji0?hl=zh-tw#scrollTo=RlGiOKputV6T)
 - [EX04-05 辨識鳶尾花](https://colab.research.google.com/drive/1esS4VKKrsKR95Z5NjBo6ryaERJUjvlhk?hl=zh-tw#scrollTo=STS4UP9a6-TU)
 - [EX04-06 ET Today 新聞標題分類](https://colab.research.google.com/drive/14xk4tUuKCLqIVwyq8MWvDlTrB9nLrzfx?hl=zh-tw#scrollTo=nN5ZtYQipKGg)
-- [EX04-07 PTT 電影版情感分析]
   
 ## 05 Web API
 - [EX05-01 Echo Bot](https://colab.research.google.com/drive/1XA9iE4lfUSQQJrKimw35jJKF5wivKqnB?usp=classroom_web#scrollTo=UygnOdE2qbVi)
