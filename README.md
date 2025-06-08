@@ -45,5 +45,5 @@
 - [HW2/2](https://colab.research.google.com/drive/1csRdk4Y1m4Csjw5eZVRPGZQvt9H23B4b?usp=classroom_web)
 
 ## REPORT
--[final report](https://colab.research.google.com/drive/19EX9wlJ5JDjV6t-fMlE-q0e9XUaIFEGd?hl=zh-tw#scrollTo=ppwc_uct24hK)
+- [Final report](https://colab.research.google.com/drive/19EX9wlJ5JDjV6t-fMlE-q0e9XUaIFEGd?hl=zh-tw#scrollTo=ppwc_uct24hK)
 
